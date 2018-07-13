@@ -26,7 +26,7 @@ Aqui na Ezoom possuímos diversos projetos mais antigos desenvolvidos em CodeIgn
 
 ### Irei trabalhar somente com CodeIgniter?
 
-**NÃO!** Aqui trabalhamos com todo tipo de plataforma, framework, precompilador e linguagem que você pode imaginar, como [Laravel](https://laravel.com/), [Ionic](https://ionicframework.com/), [Angular](https://angular.io/), [TypeScript](https://www.typescriptlang.org/), [Next.js](https://nextjs.org/), [OpenCart](https://www.opencart.com/), [Swift](https://developer.apple.com/swift/), [Xcode](https://developer.apple.com/xcode/), [React](https://reactjs.org/), [React Native](https://facebook.github.io/react-native/), [Zend Framework](https://framework.zend.com/), [LESS](http://lesscss.org/), [SASS](https://sass-lang.com/), [Gulp](https://gulpjs.com/) etc. além do básico HTML5, CSS3+ e JavaScript. As oportunidades são infinitas.
+**NÃO!** Aqui trabalhamos com todo tipo de plataforma, framework, precompilador e linguagem que você pode imaginar, como [Laravel](https://laravel.com/), [Ionic](https://ionicframework.com/), [Angular](https://angular.io/), [TypeScript](https://www.typescriptlang.org/), [Next.js](https://nextjs.org/), [OpenCart](https://www.opencart.com/), [Swift](https://developer.apple.com/swift/), [Xcode](https://developer.apple.com/xcode/), [React](https://reactjs.org/), [React Native](https://facebook.github.io/react-native/), [Zend Framework](https://framework.zend.com/), [LESS](http://lesscss.org/), [SASS](https://sass-lang.com/), [Gulp](https://gulpjs.com/) etc. além do básico PHP, HTML5, CSS3+ e JavaScript. As oportunidades são infinitas.
 
 ### Sugestões?
 
