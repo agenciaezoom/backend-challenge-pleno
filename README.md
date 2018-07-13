@@ -26,6 +26,10 @@ Qualquer dúvida, fique a vontade para entrar em contato conosco, por [e-mail](g
 
 Aqui na Ezoom possuímos diversos projetos mais antigos desenvolvidos em CodeIgniter, assim como também mantemos um boilerplate interno baseado neste framework. Portanto é imprescindível que você saiba desenvolver e dar manutenções em cima deste framework.
 
+### Tenho que usar mesmo o CodeIgniter pro teste?
+
+Sim (vide resposta acima).
+
 ### Irei trabalhar somente com CodeIgniter?
 
 **NÃO!** Aqui trabalhamos com todo tipo de plataforma, framework, precompilador e linguagem que você pode imaginar, como [Laravel](https://laravel.com/), [Ionic](https://ionicframework.com/), [Angular](https://angular.io/), [TypeScript](https://www.typescriptlang.org/), [Next.js](https://nextjs.org/), [OpenCart](https://www.opencart.com/), [Swift](https://developer.apple.com/swift/), [Xcode](https://developer.apple.com/xcode/), [React](https://reactjs.org/), [React Native](https://facebook.github.io/react-native/), [Zend Framework](https://framework.zend.com/), [LESS](http://lesscss.org/), [SASS](https://sass-lang.com/), [Gulp](https://gulpjs.com/) etc. além do básico PHP, HTML5, CSS3+ e JavaScript. As oportunidades são infinitas.
