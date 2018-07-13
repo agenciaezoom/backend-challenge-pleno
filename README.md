@@ -14,7 +14,7 @@ Um link para visualizarmos o seu teste rodando e/ou documentação sobre como ro
 * Pro teste ficar legal, sugerimos que você desenvolva usando uma marca real como contexto, para ter uma interface específica como cores, marca, formas e dados como se fosse para um cliente. Você pode usar qualquer marca que preferir, exemplo: [Hyundai](https://www.hyundai.com.br/), [Boticário](http://www.boticario.com.br/), [Coca-Cola](https://www.cocacola.com.br/pt/home/) ou até a própria [Ezoom](http://www.ezoom.com.br/).
 * Caso queira encaminhar junto algum outro trabalho ou link, fique a vontade, mas a avaliação será feita em cima da proposta mencionada aqui.
 
-**Importante:** é possível que haja respostas desse teste no GitHub de outras pessoas. Não precisamos nem comentar de que colar e/ou copiar não é algo legal, né? Confiamos no seu comportamento e você verá que isso se extende dentro da empresa se possivelmente vier a trabalhar conosco.
+**Importante:** é possível que haja respostas desse teste no GitHub de outras pessoas. Não precisamos nem comentar de que colar e/ou copiar não é algo legal, né? Confiamos no seu comportamento e você verá que isso se estende dentro da empresa se possivelmente vier a trabalhar conosco.
 
 ---
 
