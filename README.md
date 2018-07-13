@@ -24,7 +24,7 @@ Qualquer dúvida, fique a vontade para entrar em contato conosco, por [e-mail](g
 
 ### Por que CodeIgniter?
 
-Aqui na Ezoom possuímos diversos projetos mais antigos desenvolvidos em CodeIgniter, assim como também mantemos um boilerplate interno baseado neste framework. Portanto é imprescindível que você saiba desenvolver e dar manutenções em cima deste framework.
+Aqui na Ezoom possuímos diversos projetos mais antigos desenvolvidos em CodeIgniter, assim como também mantemos dois frameworks/boilerplates internos baseado neste framework, para CMS e outras coisas. Portanto é imprescindível que você saiba desenvolver e dar manutenções em cima deste framework.
 
 ### Tenho que usar mesmo o CodeIgniter pro teste?
 
