@@ -8,6 +8,8 @@ Para desenvolvimento, utilizar PHP 5.6+ e MySQL 5.5+.
 
 Publique os arquivos com o dump do banco de dados em um repositório no seu perfil do GitHub. Importante: também avaliamos o seu processo de desenvolvimento commit por commit, portanto evite fazer apenas um commit com todo o projeto.
 
+Um link para visualizarmos o seu teste rodando e/ou documentação sobre como rodarmos o teste também são consideradas.
+
 **Extras:**
 * Pro teste ficar legal, sugerimos que você desenvolva usando uma marca real como contexto, para ter uma interface específica como cores, marca, formas e dados como se fosse para um cliente. Você pode usar qualquer marca que preferir, exemplo: [Hyundai](https://www.hyundai.com.br/), [Boticário](http://www.boticario.com.br/), [Coca-Cola](https://www.cocacola.com.br/pt/home/) ou até a própria [Ezoom](http://www.ezoom.com.br/).
 * Caso queira encaminhar junto algum outro trabalho ou link, fique a vontade, mas a avaliação será feita em cima da proposta mencionada aqui.
