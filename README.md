@@ -6,7 +6,7 @@ Quanto ao layout, um HTML e CSS bem feitos serão um diferencial.
 
 Para desenvolvimento, utilizar PHP 5.6+ e MySQL 5.5+.
 
-Publique os arquivos com o dump do banco de dados em um repositório no seu perfil do GitHub. Importante: também avaliamos o seu processo de desenvolvimento commit por commit, portanto evite fazer apenas um commit com todo o projeto.
+Publique os arquivos com o dump do banco de dados em SQL em um repositório no seu perfil do GitHub. Importante: também avaliamos o seu processo de desenvolvimento commit por commit, portanto evite fazer apenas um commit com todo o projeto.
 
 Um link para visualizarmos o seu teste rodando e/ou documentação sobre como rodarmos o teste também são consideradas.
 
