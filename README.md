@@ -1,26 +1,26 @@
 # Teste Ezoom
 
-Desenvolva uma aplicação utilizando o framework [CodeIgniter](http://codeigniter.com). Esta aplicação, deve conter um [CRUD](https://pt.wikipedia.org/wiki/CRUD) básico de pelo menos duas áreas e relacionamento entre as tabelas. Exemplo: Categorias e Produtos.
+Desenvolva uma aplicação [PHP](http://php.net/) utilizando o framework [CodeIgniter](http://codeigniter.com).
 
-Quanto ao layout, um HTML e CSS bem feitos serão um diferencial.
+* Esta aplicação, deve conter um [CRUD](https://pt.wikipedia.org/wiki/CRUD) básico de pelo menos duas áreas e relacionamento entre as tabelas. Exemplo: Categorias e Produtos;
+* Quanto ao layout, um [HTML](https://pt.wikipedia.org/wiki/HTML) e [CSS](https://pt.wikipedia.org/wiki/Cascading_Style_Sheets) bem feitos serão um diferencial;
+* Para desenvolvimento, utilizar PHP 5.6+ e [MySQL](https://pt.wikipedia.org/wiki/MySQL) 5.5+;
+* Publique os arquivos com o dump do banco de dados em SQL em um repositório no seu perfil aqui no GitHub;
+* **Importante:** avaliamos todo seu processo de desenvolvimento, commit por commit, portanto **NÃO FAÇA** apenas um commit para todo projeto;
+* Preferencialmente disponibilize um link para visualizarmos o seu teste rodando - você pode hospedar temporariamente onde preferir, caso não tenha onde colocar, uma busca rápida por `free php mysql hosting` mostra milhares de opcões;
+* Insira no seu `README.md` instruções / documentação necessária sobre como rodarmos seu teste localmente;
+* Pro teste ficar legal, considere como se estivesse desenvolvendo para uma marca real, para ter interface específica como cores, marca, formas e dados como se fosse para um cliente. Você pode usar qualquer marca que preferir, exemplo: [Hyundai](https://www.hyundai.com.br/), [Renault](https://www.renault.com.br/), [Boticário](http://www.boticario.com.br/), [Coca-Cola](https://www.cocacola.com.br/pt/home/) etc. - você pode brincar com cadastros de produtos específicos das empresas, como modelos, cores, categorias, entre outra opções;
+* Caso queira nos encaminhar junto algum(ns) outro(s) trabalho(s) ou link(s) que considere interessante, fique a vontade, adoramos ver o que você já desenvolveu, mas a maior parte da avaliação será feita em cima da proposta mencionada aqui;
+* Envie seu currículo / <abbr title="Curriculum Vitae">CV</abbr> [aqui](https://www.ezoom.com.br/trabalhe-conosco).
+* Ao finalizar o teste, [envie um e-mail](mailto:giovanni.pires@equipe.ezoom.com.br) comunicando-nos.
 
-Para desenvolvimento, utilizar PHP 5.6+ e MySQL 5.5+.
-
-Publique os arquivos com o dump do banco de dados em SQL em um repositório no seu perfil do GitHub. Importante: também avaliamos o seu processo de desenvolvimento commit por commit, portanto evite fazer apenas um commit com todo o projeto.
-
-Um link para visualizarmos o seu teste rodando e/ou documentação sobre como rodarmos o teste também são consideradas.
-
-**Extras:**
-* Pro teste ficar legal, sugerimos que você desenvolva usando uma marca real como contexto, para ter uma interface específica como cores, marca, formas e dados como se fosse para um cliente. Você pode usar qualquer marca que preferir, exemplo: [Hyundai](https://www.hyundai.com.br/), [Boticário](http://www.boticario.com.br/), [Coca-Cola](https://www.cocacola.com.br/pt/home/) ou até a própria [Ezoom](http://www.ezoom.com.br/).
-* Caso queira encaminhar junto algum outro trabalho ou link, fique a vontade, mas a avaliação será feita em cima da proposta mencionada aqui.
-
-**Importante:** é possível que haja respostas desse teste no GitHub de outras pessoas. Não precisamos nem comentar de que colar e/ou copiar não é algo legal, né? Confiamos no seu comportamento e você verá que isso se estende dentro da empresa se possivelmente vier a trabalhar conosco.
+**Importante:** há respostas de outras pessoas para este teste no GitHub - fique a vontade para visualizá-las **após** finalizar o seu teste - mas em momento algum copie e/ou dê fork para nos enviar como se fosse sua resposta. Esse tipo de comportamento ocasionará em **IMEDIATA REPROVAÇÃO**. O mesmo vale para cópias praticamente integrais de tutoriais que possa encontrar na internet - com exceção da própria documentação do framework.
 
 ---
 
 ## Dúvidas
 
-Qualquer dúvida, fique a vontade para entrar em contato conosco, por [e-mail](giovanni@grupoezoom.com.br), issue ou como preferir.
+Qualquer dúvida, fique a vontade para entrar em contato conosco, por [e-mail](giovanni.pires@equipe.ezoom.com.br), issue ou como preferir.
 
 ### Por que CodeIgniter?
 
@@ -30,12 +30,29 @@ Aqui na Ezoom possuímos diversos projetos mais antigos desenvolvidos em CodeIgn
 
 Sim (vide resposta acima).
 
-### Irei trabalhar somente com CodeIgniter?
+### Posso enviar um CRUD feito em "PHP Vanilla"?
 
-**NÃO!** Aqui trabalhamos com todo tipo de plataforma, framework, precompilador e linguagem que você pode imaginar, como [Laravel](https://laravel.com/), [Ionic](https://ionicframework.com/), [Angular](https://angular.io/), [TypeScript](https://www.typescriptlang.org/), [Next.js](https://nextjs.org/), [OpenCart](https://www.opencart.com/), [Swift](https://developer.apple.com/swift/), [Xcode](https://developer.apple.com/xcode/), [React](https://reactjs.org/), [React Native](https://facebook.github.io/react-native/), [Zend Framework](https://framework.zend.com/), [LESS](http://lesscss.org/), [SASS](https://sass-lang.com/), [Gulp](https://gulpjs.com/) etc. além do básico PHP, HTML5, CSS3+ e JavaScript. As oportunidades são infinitas.
+**Não**, veja respostas acima.
+
+### Irei trabalhar só com CodeIgniter aí na Ezoom?
+
+**NÃO!** Aqui nós trabalhamos com todo tipo de linguagem, framework, plataforma e precompilador que você pode imaginar, como [Laravel](https://laravel.com/), [Ionic](https://ionicframework.com/), [Angular](https://angular.io/), [TypeScript](https://www.typescriptlang.org/), [Next.js](https://nextjs.org/), [OpenCart](https://www.opencart.com/), [Swift](https://developer.apple.com/swift/), [Xcode](https://developer.apple.com/xcode/), [React](https://reactjs.org/), [React Native](https://facebook.github.io/react-native/), [Zend Framework](https://framework.zend.com/), [LESS](http://lesscss.org/), [SASS](https://sass-lang.com/), [Gulp](https://gulpjs.com/) etc. além do básico PHP, HTML, CSS e JavaScript. As oportunidades são infinitas. PHP é uma das principais tecnologias mas isto muitas vezes varia de projeto para projeto.
 
 ### Sugestões?
 
 Tem sugestões de melhorias para esse teste? Fique a vontade para fazer um fork com melhorias, pull requests ou abrir issues com o que passar na sua mente.
 
 Bom teste!
+
+---
+
+## Showcase
+
+Entre os links abaixo, alguns desenvolvedores estão na Ezoom, outros não foram ou podem ainda não ter sido contratados e algum deles pode ter sido reprovado.
+
+* https://github.com/agenciaezoom/devtest-Berselli
+* https://github.com/agenciaezoom/devtest-bmarsilio
+* https://github.com/agenciaezoom/devtest-Camilotk
+* https://github.com/agenciaezoom/devtest-giovannipds
+* https://github.com/agenciaezoom/devtest-MarcianoPasa
+* https://github.com/agenciaezoom/devtest-roberzguerra
