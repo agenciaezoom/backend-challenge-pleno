@@ -48,7 +48,7 @@ Bom teste!
 
 ## Showcase
 
-Entre os links abaixo, alguns desenvolvedores estão na Ezoom, outros não foram ou podem ainda não ter sido contratados e algum deles pode ter sido reprovado.
+Entre os links abaixo, alguns desenvolvedores estão na Ezoom, outros não foram ou podem ainda não ter sido contratados e algum(ns) dele(s) pode(m) ter sido reprovado(s).
 
 * https://github.com/agenciaezoom/devtest-Berselli
 * https://github.com/agenciaezoom/devtest-bmarsilio
