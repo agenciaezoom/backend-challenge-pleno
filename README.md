@@ -12,7 +12,7 @@ Desenvolva uma aplicação [PHP](http://php.net/) utilizando o framework [CodeIg
 * Pro teste ficar legal, considere como se estivesse desenvolvendo para uma marca real, para ter interface específica como cores, marca, formas e dados como se fosse para um cliente. Você pode usar qualquer marca que preferir, exemplo: [Hyundai](https://www.hyundai.com.br/), [Renault](https://www.renault.com.br/), [Boticário](http://www.boticario.com.br/), [Coca-Cola](https://www.cocacola.com.br/pt/home/) etc. - você pode brincar com cadastros de produtos específicos das empresas, como modelos, cores, categorias, entre outra opções;
 * Caso queira nos encaminhar junto algum(ns) outro(s) trabalho(s) ou link(s) que considere interessante, fique a vontade, adoramos ver o que você já desenvolveu, mas a maior parte da avaliação será feita em cima da proposta mencionada aqui;
 * Envie seu currículo / <abbr title="Curriculum Vitae">CV</abbr> [aqui](https://www.ezoom.com.br/trabalhe-conosco).
-* Ao finalizar o teste, [envie um e-mail](mailto:giovanni.pires@equipe.ezoom.com.br) comunicando-nos.
+* Ao finalizar o teste, [envie um e-mail](mailto:ralf@ezoom.com.br) comunicando-nos.
 
 **Importante:** há respostas de outras pessoas para este teste no GitHub - fique a vontade para visualizá-las **após** finalizar o seu teste - mas em momento algum copie e/ou dê fork para nos enviar como se fosse sua resposta. Esse tipo de comportamento ocasionará em **IMEDIATA REPROVAÇÃO**. O mesmo vale para cópias praticamente integrais de tutoriais que possa encontrar na internet - com exceção da própria documentação do framework.
 
@@ -20,7 +20,7 @@ Desenvolva uma aplicação [PHP](http://php.net/) utilizando o framework [CodeIg
 
 ## Dúvidas
 
-Qualquer dúvida, fique a vontade para entrar em contato conosco, por [e-mail](giovanni.pires@equipe.ezoom.com.br), issue ou como preferir.
+Qualquer dúvida, fique a vontade para entrar em contato conosco, por [e-mail](ralf@ezoom.com.br), issue ou como preferir.
 
 ### Por que CodeIgniter?
 
@@ -36,7 +36,7 @@ Sim (vide resposta acima).
 
 ### Irei trabalhar só com CodeIgniter aí na Ezoom?
 
-**NÃO!** Aqui nós trabalhamos com todo tipo de linguagem, framework, plataforma e precompilador que você pode imaginar, como [Laravel](https://laravel.com/), [Ionic](https://ionicframework.com/), [Angular](https://angular.io/), [TypeScript](https://www.typescriptlang.org/), [Next.js](https://nextjs.org/), [OpenCart](https://www.opencart.com/), [Swift](https://developer.apple.com/swift/), [Xcode](https://developer.apple.com/xcode/), [React](https://reactjs.org/), [React Native](https://facebook.github.io/react-native/), [Zend Framework](https://framework.zend.com/), [LESS](http://lesscss.org/), [SASS](https://sass-lang.com/), [Gulp](https://gulpjs.com/) etc. além do básico PHP, HTML, CSS e JavaScript. As oportunidades são infinitas. PHP é uma das principais tecnologias mas isto muitas vezes varia de projeto para projeto.
+**NÃO!** Aqui nós trabalhamos com todo tipo de linguagem, framework, plataforma e precompilador que você pode imaginar, como [Node](https://nodejs.org/), [React](https://reactjs.org/), [React Native](https://facebook.github.io/react-native/), [Ionic](https://ionicframework.com/), [Angular](https://angular.io/), [TypeScript](https://www.typescriptlang.org/), [Next.js](https://nextjs.org/), [OpenCart](https://www.opencart.com/), [Laravel](https://laravel.com/), [Swift](https://developer.apple.com/swift/), [Xcode](https://developer.apple.com/xcode/), [LESS](http://lesscss.org/), [SASS](https://sass-lang.com/), [Gulp](https://gulpjs.com/) etc. além do básico PHP, HTML, CSS e JavaScript. As oportunidades são infinitas. PHP é uma das principais tecnologias mas isto muitas vezes varia de projeto para projeto.
 
 ### Sugestões?
 
