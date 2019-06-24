@@ -4,7 +4,7 @@ Desenvolva uma aplicação [PHP](http://php.net/) utilizando o framework [CodeIg
 
 * Esta aplicação, deve conter um [CRUD](https://pt.wikipedia.org/wiki/CRUD) básico de pelo menos duas áreas e relacionamento entre as tabelas. Exemplo: Categorias e Produtos;
 * Quanto ao layout, um [HTML](https://pt.wikipedia.org/wiki/HTML) e [CSS](https://pt.wikipedia.org/wiki/Cascading_Style_Sheets) bem feitos serão um diferencial;
-* Para desenvolvimento, utilizar PHP 5.6+ e [MySQL](https://pt.wikipedia.org/wiki/MySQL) 5.5+;
+* Para desenvolvimento, utilizar PHP 7.2+ e [MySQL](https://pt.wikipedia.org/wiki/MySQL) 5.5+;
 * Publique os arquivos com o dump do banco de dados em SQL em um repositório no seu perfil aqui no GitHub;
 * **Importante:** avaliamos todo seu processo de desenvolvimento, commit por commit, portanto **NÃO FAÇA** apenas um commit para todo projeto;
 * Preferencialmente disponibilize um link para visualizarmos o seu teste rodando - você pode hospedar temporariamente onde preferir, caso não tenha onde colocar, uma busca rápida por `free php mysql hosting` mostra milhares de opcões;
