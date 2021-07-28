@@ -2,12 +2,14 @@
 
 # Backend Challenge Pleno
 
-Desenvolva uma aplicação [PHP](http://php.net/) utilizando o framework [CodeIgniter](http://codeigniter.com) ou [Laravel](https://laravel.com/).
+- O prazo de entrega do teste é de até 5 dias, mas caso você tenha algum imprevisto sinalize o novo prazo e o motivo;
+- O mais importante é você desenvolver as skills solicitadas ou passar um tempo a mais demonstrando suas habilidades do que entregar algo incompleto ou que não atenda todos os requisitos deste teste.
 
 ## Requisitos
 
 - Faça um fork deste repositório;
 - Leia todo este arquivo README.md para entender o que será avaliado;
+- Desenvolva uma aplicação [PHP](http://php.net/) utilizando o framework [CodeIgniter](http://codeigniter.com) ou [Laravel](https://laravel.com/).
 - Esta aplicação, deve conter um [CRUD](https://pt.wikipedia.org/wiki/CRUD) básico de pelo menos duas áreas e relacionamento entre as tabelas. Exemplo: Categorias e Produtos;
 - Quanto ao layout, um [HTML](https://pt.wikipedia.org/wiki/HTML) e [CSS](https://pt.wikipedia.org/wiki/Cascading_Style_Sheets) bem feitos serão um diferencial;
 - Para desenvolvimento, utilizar PHP 7.2+ e [MySQL](https://pt.wikipedia.org/wiki/MySQL) 5.6+;
@@ -46,7 +48,9 @@ Não serão avaliados testes técnicos cuja aplicação não esteja hospedada. O
 
 ## Sobre a entrega
 
-Fique a vontade para entrar em contato conosco em qualquer dúvida e se por algum motivo não for possível cumprir com o prazo, por gentileza, nos informe via email.
+O teste deverá ser efetuado em até 5 dias a partir do recebimento das instruções, respondendo à mesma conversa de email onde enviamos o link do desafio. Inclua na sua resposta o link do seu fork e envie também o link para o review online da aplicação.
+
+Se por algum motivo não for possível cumprir com o prazo, por gentileza, nos informe via email.
 
 ### Por que CodeIgniter?
 
