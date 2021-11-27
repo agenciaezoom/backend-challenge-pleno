@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\UsuariosController;
 
 /*
 |--------------------------------------------------------------------------
@@ -18,3 +19,7 @@ Route::group(['middleware' => 'web'], function(){
     Auth::routes();
     Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 });
+
+//Rota da minha view que mostra os registros dos usuárioss
+Route::get('/usuarios', [App\Http\Controllers\UsuariosController::class, 'index'])->name('index');
+
