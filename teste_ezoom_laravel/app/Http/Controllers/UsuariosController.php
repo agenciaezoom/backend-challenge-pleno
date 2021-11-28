@@ -39,4 +39,11 @@ class UsuariosController extends Controller
         $usuario->update( $request->all() );
         return Redirect::to('/usuarios');
     }
+
+    //Deleta um usuário
+    public function delete( $id ) {
+        $usuario = Usuario::findOrFail( $id );
+        $usuario->delete();
+        return Redirect::to('/usuarios');
+    }
 }

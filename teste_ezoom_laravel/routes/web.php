@@ -32,3 +32,6 @@ Route::post('usuarios/add', 'UsuariosController@add');
 //Rota para editar um usuário
 Route::get('usuarios/{id}/edit', 'UsuariosController@edit');
 Route::post('usuarios/update/{id}', 'UsuariosController@update');
+
+//Rota para deletar um usuário
+Route::delete('usuarios/delete/{id}', 'UsuariosController@delete');
