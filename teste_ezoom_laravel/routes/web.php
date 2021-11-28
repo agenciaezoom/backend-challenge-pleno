@@ -21,17 +21,17 @@ Route::group(['middleware' => 'web'], function(){
 });
 
 //Rota da minha view que mostra os registros dos usuárioss
-Route::get('/usuarios', [App\Http\Controllers\UsuariosController::class, 'index'])->name('index');
+Route::get('/usuarios', [App\Http\Controllers\UsuariosController::class, 'index'])->middleware('auth');
 
 //Rota pra cadastrar um novo usuário
-Route::get('usuarios/new', 'UsuariosController@new');
+Route::get('usuarios/new', 'UsuariosController@new')->middleware('auth');
 
 //Rota de adicionar um usuário
-Route::post('usuarios/add', 'UsuariosController@add');
+Route::post('usuarios/add', 'UsuariosController@add')->middleware('auth');
 
 //Rota para editar um usuário
-Route::get('usuarios/{id}/edit', 'UsuariosController@edit');
-Route::post('usuarios/update/{id}', 'UsuariosController@update');
+Route::get('usuarios/{id}/edit', 'UsuariosController@edit')->middleware('auth');
+Route::post('usuarios/update/{id}', 'UsuariosController@update')->middleware('auth');
 
 //Rota para deletar um usuário
-Route::delete('usuarios/delete/{id}', 'UsuariosController@delete');
+Route::delete('usuarios/delete/{id}', 'UsuariosController@delete')->middleware('auth');
