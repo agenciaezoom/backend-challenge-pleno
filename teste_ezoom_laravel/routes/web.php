@@ -23,3 +23,12 @@ Route::group(['middleware' => 'web'], function(){
 //Rota da minha view que mostra os registros dos usuárioss
 Route::get('/usuarios', [App\Http\Controllers\UsuariosController::class, 'index'])->name('index');
 
+//Rota pra cadastrar um novo usuário
+Route::get('usuarios/new', 'UsuariosController@new');
+
+//Rota de adicionar um usuário
+Route::post('usuarios/add', 'UsuariosController@add');
+
+//Rota para editar um usuário
+Route::get('usuarios/{id}/edit', 'UsuariosController@edit');
+Route::post('usuarios/update/{id}', 'UsuariosController@update');

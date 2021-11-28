@@ -30,7 +30,7 @@
                                 <td>{{ $u->name }}</td>
                                 <td>{{ $u->email }}</td>
                                 <td>
-                                    <a href="{{ url('usuarios/{{ $u->id }}/edit') }}" class="btn btn-info">Editar</a>
+                                    <a href="usuarios/{{ $u->id }}/edit" class="btn btn-info">Editar</a>
                                 </td>
                                 <td>
                                     <button class="btn btn-danger">Deletar</button>
