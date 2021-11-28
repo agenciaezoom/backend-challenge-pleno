@@ -24,10 +24,10 @@ Route::group(['middleware' => 'web'], function(){
 Route::get('/usuarios', [App\Http\Controllers\UsuariosController::class, 'index'])->middleware('auth');
 
 //Rota pra cadastrar um novo usuário
-Route::get('usuarios/new', 'UsuariosController@new')->middleware('auth');
+Route::get('/usuarios/new', 'UsuariosController@new')->middleware('auth');
 
 //Rota de adicionar um usuário
-Route::post('usuarios/add', 'UsuariosController@add')->middleware('auth');
+Route::post('/usuarios/add', 'UsuariosController@add')->middleware('auth');
 
 //Rota para editar um usuário
 Route::get('usuarios/{id}/edit', 'UsuariosController@edit')->middleware('auth');

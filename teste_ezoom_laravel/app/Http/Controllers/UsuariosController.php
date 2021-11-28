@@ -19,10 +19,10 @@ class UsuariosController extends Controller
         return view('usuarios.form');
     }
 
-    //
+    //Adiciona um novo usuário
     public function add( Request $request) {
-        $usuario = new Usuario;
-        $usuario = $usuario->crate( $request->all() );
+        $usuario = new Usuario; //Instanciando a classe new
+        $usuario = $usuario->create( $request->all() );
         return Redirect::to('/usuarios');
     }
 
