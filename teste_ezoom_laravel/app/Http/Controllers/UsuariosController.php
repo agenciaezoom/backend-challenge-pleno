@@ -21,7 +21,7 @@ class UsuariosController extends Controller
 
     //Adiciona um novo usuário
     public function add( Request $request) {
-        $usuario = new Usuario; //Instanciando a classe new
+        $usuario = new Usuario; //Instanciando a classe Usuario
         $usuario = $usuario->create( $request->all() );
         return Redirect::to('/usuarios');
     }
