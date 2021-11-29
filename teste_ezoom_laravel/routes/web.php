@@ -35,3 +35,11 @@ Route::post('usuarios/update/{id}', 'UsuariosController@update')->middleware('au
 
 //Rota para deletar um usuário
 Route::delete('usuarios/delete/{id}', 'UsuariosController@delete')->middleware('auth');
+
+//----------------------------------- Vendas --------------------------------------------
+
+//Rota pra cadastrar uma nova venda - View form
+Route::get('/vendas/new', 'VendasController@new')->middleware('auth');
+
+//Rota de adicionar uma nova venda
+Route::post('/vendas/add', 'VendasController@add')->middleware('auth');
