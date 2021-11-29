@@ -43,3 +43,6 @@ Route::get('/vendas/new', 'VendasController@new')->middleware('auth');
 
 //Rota de adicionar uma nova venda
 Route::post('/vendas/add', 'VendasController@add')->middleware('auth');
+
+//Rota da minha view que mostra os registros das vendas
+Route::get('/vendas', [App\Http\Controllers\VendasController::class, 'index'])->middleware('auth');

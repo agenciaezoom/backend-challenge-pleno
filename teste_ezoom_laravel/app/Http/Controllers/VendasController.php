@@ -19,9 +19,9 @@ class VendasController extends Controller
         return Redirect::to('/vendas');
     }
 
-    // //Manda exibir os registros de venda
-    // public function index() {
+    //Manda exibir os registros de venda
+    public function index() {
 
-    //     return view('vendas.list');
-    // }
+        return view('vendas.list');
+    }
 }

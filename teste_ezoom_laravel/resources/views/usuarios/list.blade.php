@@ -5,7 +5,7 @@
         <div class="row justify-content-center">
             <div class="col-md-8">
                 <div class="card-body">
-                    <nav class="navbar navbar-dark navbar-expand-lg navbar-light bg-dark">
+                    <nav class="navbar navbar-expand-lg navbar-light bg-light">
                         <div class="collapse navbar-collapse" id="navbarNav">
                             <ul class="navbar-nav">
                                 <li class="nav-item">
@@ -13,6 +13,9 @@
                                 </li>
                                 <li class="nav-item mx-1">
                                     <a href="{{ url('vendas/new') }}">Registrar Venda</a>
+                                </li>
+                                <li class="nav-item mx-1">
+                                    <a href="{{ url('vendas/index') }}">Vendas Registradas</a>
                                 </li>
                             </ul>
                         </div>

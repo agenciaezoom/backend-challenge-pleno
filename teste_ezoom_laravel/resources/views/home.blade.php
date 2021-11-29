@@ -16,6 +16,7 @@
 
                     <h1>Seja Bem Vindo</h1>
                     <a href="{{ url('usuarios') }}">Lista dos usuários</a>
+                    <a href="{{ url('vendas') }}" class="mx-1">Registros de vendas</a>
                 </div>
             </div>
         </div>
