@@ -5,7 +5,18 @@
         <div class="row justify-content-center">
             <div class="col-md-8">
                 <div class="card-body">
-                    <div class="card-header"><a href="{{ url('usuarios/new') }}">Novo Usuário</a></div>
+                    <nav class="navbar navbar-dark navbar-expand-lg navbar-light bg-dark">
+                        <div class="collapse navbar-collapse" id="navbarNav">
+                            <ul class="navbar-nav">
+                                <li class="nav-item">
+                                    <a href="{{ url('usuarios/new') }}">Novo Usuário</a>
+                                </li>
+                                <li class="nav-item mx-1">
+                                    <a href="{{ url('vendas/new') }}">Registrar Venda</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </nav>
                     @if(session('status'))
                         <div class="alert alert-success" role="alert">
                             {{ session('status')}}
