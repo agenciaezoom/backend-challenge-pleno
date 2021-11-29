@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 use Illuminate\Support\Facades\Redirect;
-use App\Models\Vendas;
+use App\Models\Venda;
 use Illuminate\Http\Request;
 
 class VendasController extends Controller
@@ -23,5 +23,19 @@ class VendasController extends Controller
     public function index() {
 
         return view('vendas.list');
+    }
+
+    //Manda para o form de editar uma venda
+    public function edit( $id ) {
+        //Instanciando o usuário
+        $venda = Venda::findOrFail( $id );
+        return view('vendas.form', ['vendas' => $venda]);
+    }
+
+    //Edita uma venda
+    public function update( $id, Request $request) {
+        $venda = Venda::findOrFail( $id );
+        $venda->update( $request->all() );
+        return Redirect::to('/vendas');
     }
 }
